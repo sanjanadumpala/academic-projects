@@ -1,4 +1,4 @@
 # DNA Sequence Alignment Problem
 
-### basic.py: Basic version using Dynamic Programming
-### efficient.py: Efficient version using DP + Divide and Conquer
+### basic_3.py: Basic version using Dynamic Programming
+### efficient_3.py: Efficient version using DP + Divide and Conquer
